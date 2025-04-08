@@ -21,5 +21,5 @@
 - ![Roboflow](https://img.shields.io/badge/Roboflow-1.0-green)
 
 ## Reach Me:
-- 💬 Connect with me on [LinkedIn]([https://www.linkedin.com/in/ibrahim/](https://www.linkedin.com/in/muhammad-ibrahim-9889431bb/))
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-9889431bb/)
 - 📬 Email me at [ibrahimxh07@gmail.com](mailto:ibrahimxh07@gmail.com)
